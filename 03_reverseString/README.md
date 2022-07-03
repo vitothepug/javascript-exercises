@@ -10,3 +10,9 @@ You will notice in this exercise that there are multiple tests, after making the
 
 ## Hints
 Strings in JavaScript cannot be reversed directly so you're going to have to split it into something else first.. do the reversal and then join it back together into a string.
+
+get the length of the string
+loop through each letter adding it to an array from 1 to los
+loop through from los to 1 pulling each letter and adding it to a new string
+return the new string
+
